@@ -1,3 +1,3 @@
-# THE-APPROACH-OF-STATISTICAL-OFFICES-AND-AGENCIES-TO-THE-PUBLICATION-OF-CENSUS-MICRODATA
+# The-approach-of-statistical-offices-and-agencies-to-the-publication-of-census-microdata
 
 This repository contain full size maps, which were created for the article.
